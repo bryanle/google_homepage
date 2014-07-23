@@ -20,6 +20,16 @@ img {
 .search_button {
   text-align: center;
   display: block; }
+  .search_button button {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background-color: #f5f5f5;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #CCCCCC;
+    padding: 7px 7px;
+    margin: 10px 6px; }
 
 .button li {
   a: hover; }
